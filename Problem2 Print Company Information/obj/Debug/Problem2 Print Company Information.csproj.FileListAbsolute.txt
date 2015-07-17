@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem2 Print Company Information\bin\Debug\Problem2 Print Company Information.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem2 Print Company Information\bin\Debug\Problem2 Print Company Information.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem2 Print Company Information\bin\Debug\Problem2 Print Company Information.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem2 Print Company Information\obj\Debug\Problem2 Print Company Information.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem2 Print Company Information\obj\Debug\Problem2 Print Company Information.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem2 Print Company Information\obj\Debug\Problem2 Print Company Information.pdb

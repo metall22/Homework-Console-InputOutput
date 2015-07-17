@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem1 Sum of 3 Numbers\bin\Debug\Problem1 Sum of 3 Numbers.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem1 Sum of 3 Numbers\bin\Debug\Problem1 Sum of 3 Numbers.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem1 Sum of 3 Numbers\bin\Debug\Problem1 Sum of 3 Numbers.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem1 Sum of 3 Numbers\obj\Debug\Problem1 Sum of 3 Numbers.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem1 Sum of 3 Numbers\obj\Debug\Problem1 Sum of 3 Numbers.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Console InputOutput\Problem1 Sum of 3 Numbers\obj\Debug\Problem1 Sum of 3 Numbers.pdb

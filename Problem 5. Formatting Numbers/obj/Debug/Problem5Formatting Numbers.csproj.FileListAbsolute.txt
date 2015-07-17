@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Console InputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Console InputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Console InputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Console InputOutput\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Console InputOutput\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb
